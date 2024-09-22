@@ -88,6 +88,9 @@ main {
   margin: 0 auto;
   transition-duration: 200ms;
   cursor: pointer;
+  overflow: hidden;
+  color: white;
+  text-decoration: none;
 }
 
 .link:hover {
